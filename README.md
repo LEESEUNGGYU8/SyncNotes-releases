@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" width="120" alt="SyncNotes">
+  <img src="images/logo.png" width="1000" alt="SyncNotes">
 </p>
 
 <h1 align="center">SyncNotes</h1>
