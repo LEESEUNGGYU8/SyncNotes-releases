@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/icon.png" width="120" alt="SyncNotes">
+  <img src="images/logo.png" width="120" alt="SyncNotes">
 </p>
 
 <h1 align="center">SyncNotes</h1>
@@ -22,8 +22,12 @@
 ## 미리보기
 
 <p align="center">
-  <img src="images/main-window.png" width="360" alt="메인 창">
-  <img src="images/sticky-notes.png" width="360" alt="포스트잇">
+  <img src="images/SyncNotes_gif.gif" width="640" alt="SyncNotes 사용 예시">
+</p>
+
+<p align="center">
+  <img src="images/SyncNotes_main.png" width="360" alt="메인 창">
+  <img src="images/SyncNotes_notes.png" width="360" alt="포스트잇">
 </p>
 
 ## 주요 기능
