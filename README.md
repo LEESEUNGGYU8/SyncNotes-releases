@@ -42,20 +42,20 @@
 
 ## 다운로드
 
-**[최신 릴리스 다운로드 →](https://github.com/LEESEUNGGYU8/SyncNotes-releases/releases/latest)**
+**[최신 버전 다운로드 (클릭 시 이)](https://github.com/LEESEUNGGYU8/SyncNotes-releases/releases/latest)**
 
-`SyncNotes-Setup-[버전].exe` 를 받아서 실행하시면 됩니다.
+Assets 목록에서 `SyncNotes-Setup-[버전].exe` 를 다운로드 후 설치하시면 됩니다.
 
 > 처음 실행 시 Windows SmartScreen이 "추가 정보 > 실행"을 요구할 수 있습니다. 코드 서명을 적용하지 않은 프리웨어라 첫 실행에서만 경고가 한 번 표시됩니다.
 
 ## 자동 업데이트
 
-프로그램을 실행 시 백그라운드에서 새 릴리스를 확인하고, 새 버전이 있으면 안내 다이얼로그가 표시됩니다.
+프로그램을 실행 시 백그라운드에서 새 버전을 확인하고, 업데이트 필요 시 있으면 안내 창이 표시됩니다.
 **지금 업데이트**를 선택하면 설치 파일을 받아 자동 설치하며, 다운로드된 설치 파일에 대한 SHA-256 해시 검증이 진행되어 무결성을 확보합니다.
 
-## 직접 무결성 검증
+## 무결성 검증
 
-각 릴리스의 `version.json` 파일에 인스톨러의 SHA-256 해시가 포함되어 있습니다. 직접 확인하시려면 PowerShell에서 아래 커맨드를 입력하세요:
+각 버전의 `version.json` 파일에 인스톨러의 SHA-256 해시가 포함되어 있습니다. 직접 확인하시려면 PowerShell에서 아래 커맨드를 입력하세요:
 
 ```powershell
 Get-FileHash -Algorithm SHA256 .\SyncNotes-Setup-[버전].exe
