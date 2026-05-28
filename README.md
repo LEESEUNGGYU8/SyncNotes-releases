@@ -42,7 +42,7 @@
 
 ## 다운로드
 
-**[최신 버전 다운로드 (클릭 시 이)](https://github.com/LEESEUNGGYU8/SyncNotes-releases/releases/latest)**
+**[최신 버전 다운로드 (클릭 시 이동)](https://github.com/LEESEUNGGYU8/SyncNotes-releases/releases/latest)**
 
 Assets 목록에서 `SyncNotes-Setup-[버전].exe` 를 다운로드 후 설치하시면 됩니다.
 
