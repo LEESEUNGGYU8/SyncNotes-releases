@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="images/SyncNotes_notes.png" width="360" alt="포스트잇">
-  <img src="images/SyncNotes_gif.gif" width="640" alt="SyncNotes 사용 예시">
+  <img src="images/SyncNotes_gif.gif" width="360" alt="SyncNotes 사용 예시">
 </p>
 
 ## 주요 기능
